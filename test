@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-06-14T08:01:56.657Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36" etag="dQ0t-5XiT75-Gj1lPUYq" version="16.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-14T08:04:24.514Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36" etag="xl_MI0A0eycBYIULA0oX" version="16.6.2" type="github">
   <diagram id="0YpaO0Nf7l-Et4f0Sy7j" name="Page-1">
     <mxGraphModel dx="1186" dy="693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="rWZRxiyku3z0rvPo15NQ-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="370" y="220" width="130" height="130" as="geometry" />
+        <mxCell id="rWZRxiyku3z0rvPo15NQ-3" value="&lt;font style=&quot;font-size: 16px&quot;&gt;as大机构&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#66FF66;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="170" width="346" height="240" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
